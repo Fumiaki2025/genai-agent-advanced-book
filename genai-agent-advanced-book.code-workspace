@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "genai-agent-advanced-book",
+			"path": "."
+		}
+	],
+	"settings": {
+		"notebook.formatOnSave.enabled": true,
+		"notebook.formatOnCellExecution": true
+	}
+}
